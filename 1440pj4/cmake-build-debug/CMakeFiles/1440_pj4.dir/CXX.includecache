@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/1440 pj4/ContainerIfc-proj4.h
+iostream
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/1440 pj4/Driver.proj4.cpp
+iostream
+-
+MyVector-proj4.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/1440 pj4/MyVector-proj4.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/1440 pj4/MyVector-proj4.h
+iostream
+-
+ContainerIfc-proj4.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/1440 pj4/ContainerIfc-proj4.h
+

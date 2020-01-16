@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/pc11-1/main.cpp
+iostream
+-
+translate.h
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/pc11-1/translate.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/pc11-1/translate.cpp
+iostream
+-
+translate.h
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/pc11-1/translate.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/pc11-1/translate.h
+iostream
+-
+string
+-
+

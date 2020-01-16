@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/p eg117/NumberArray.cpp
+iostream
+-
+NumberArray.h
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/p eg117/NumberArray.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/p eg117/NumberArray.h
+iostream
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/p eg117/main.cpp
+iostream
+-
+iomanip
+-
+NumberArray.h
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/p eg117/NumberArray.h
+

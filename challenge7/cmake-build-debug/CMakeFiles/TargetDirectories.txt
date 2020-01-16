@@ -1,0 +1,3 @@
+/Users/Stefan_Xu/Desktop/Stefan/challenge 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Stefan_Xu/Desktop/Stefan/challenge 7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Stefan_Xu/Desktop/Stefan/challenge 7/cmake-build-debug/CMakeFiles/challenge_7.dir

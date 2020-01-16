@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/1440pj2/Book-proj2.cpp
+Book-proj2.h
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/1440pj2/Book-proj2.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/1440pj2/Book-proj2.h
+iostream
+-
+sstream
+-
+string
+-
+ostream
+-
+iomanip
+-
+Word-proj2.h
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/1440pj2/Word-proj2.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/1440pj2/MyString-proj2.cpp
+MyString-proj2.h
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/1440pj2/MyString-proj2.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/1440pj2/MyString-proj2.h
+iostream
+-
+string
+-
+sstream
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/1440pj2/Word-proj2.cpp
+Word-proj2.h
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/1440pj2/Word-proj2.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/1440pj2/Word-proj2.h
+iostream
+-
+string
+-
+sstream
+-
+MyString-proj2.h
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/1440pj2/MyString-proj2.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/1440pj2/wordCount.cpp
+iostream
+-
+fstream
+-
+string
+-
+Book-proj2.h
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/1440pj2/Book-proj2.h
+

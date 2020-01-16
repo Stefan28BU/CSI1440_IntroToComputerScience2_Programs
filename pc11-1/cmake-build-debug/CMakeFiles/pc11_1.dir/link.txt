@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/pc11_1.dir/main.cpp.o CMakeFiles/pc11_1.dir/translate.cpp.o  -o pc11_1 

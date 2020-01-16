@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/proj5/ContainerIfc-proj5.h
+iostream
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/proj5/List-proj5.h
+iostream
+-
+sstream
+-
+string
+-
+Node-proj5.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/proj5/Node-proj5.h
+ContainerIfc-proj5.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/proj5/ContainerIfc-proj5.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/proj5/Node-proj5.h
+iostream
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/proj5/main.cpp
+iostream
+-
+List-proj5.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/proj5/List-proj5.h
+

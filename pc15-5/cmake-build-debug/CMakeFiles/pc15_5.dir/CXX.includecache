@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/pc15-5/filter.cpp
+iostream
+-
+cctype
+-
+fstream
+-
+filter.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/pc15-5/filter.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/pc15-5/filter.h
+fstream
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/pc15-5/main.cpp
+iostream
+-
+fstream
+-
+filter.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/pc15-5/filter.h
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/eg11-9/main.cpp
+iostream
+-
+overload.h
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/eg11-9/overload.h
+iomanip
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/eg11-9/overload.cpp
+iostream
+-
+overload.h
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/eg11-9/overload.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CS assignment/eg11-9/overload.h
+iostream
+-
+

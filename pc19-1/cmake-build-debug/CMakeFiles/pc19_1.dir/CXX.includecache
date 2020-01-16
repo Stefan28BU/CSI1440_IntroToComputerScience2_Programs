@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/pc19-1/BinaryTree.cpp
+iostream
+-
+vector
+-
+BinaryTree.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/pc19-1/BinaryTree.h
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/pc19-1/BinaryTree.h
+iostream
+-
+vector
+-
+
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/pc19-1/main.cpp
+iostream
+-
+vector
+-
+BinaryTree.h
+/Users/Stefan_Xu/Desktop/Stefan/CSI 1440 assignment/pc19-1/BinaryTree.h
+
